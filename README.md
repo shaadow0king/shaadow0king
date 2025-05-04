@@ -1,16 +1,29 @@
 ## Hi there 👋
+# 👋 Привет, я Геворк
 
-<!--
-**shaadow0king/shaadow0king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Тестировщик мобильных игр с более чем 3 годами опыта  
+📱 Android / iOS / Huawei / Amazon / UWP  
+🐛 Специализируюсь на поиске багов, оценке UX/UI и стабильности игрового процесса  
+🚀 Участвовал в релизах проектов и A/B тестировании, оформлял баг-репорты и тестовую документацию  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Инструменты и технологии
+
+Charles Proxy • Firebase • Amplitude • Git • SVN • TestRail • Android Studio •  
+Asana • Jenkins • Sentry • Qase • HelpShift • Swrve • Coda • Confluence
+
+---
+
+## 📄 [Резюме можно найти здесь] (https://shaadow0king.github.io/cv)
+
+---
+
+## 📬 Связь
+
+[Telegram](https://t.me/dduck0)  
+[Портфолио на GitHub Pages](https://shaadow0king.github.io/cv)
+
+---
+
+> 👨‍💻 Всегда открыт к интересным задачам и игровым проектам

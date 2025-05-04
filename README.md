@@ -1,29 +1,25 @@
-## Hi there 👋
-# 👋 Привет, я Геворк
+# 👋 Hi, I'm Gevork
 
-🎮 Тестировщик мобильных игр с более чем 3 годами опыта  
-📱 Android / iOS / Huawei / Amazon / UWP  
-🐛 Специализируюсь на поиске багов, оценке UX/UI и стабильности игрового процесса  
-🚀 Участвовал в релизах проектов и A/B тестировании, оформлял баг-репорты и тестовую документацию  
+🎮 Mobile Game QA Engineer with 3+ years of experience  
+📱 Testing on Android / iOS / Huawei / Amazon / UWP  
+🐞 Focused on gameplay stability, bug impact, and UX/UI logic  
+🚀 Participated in product releases, A/B testing, bug reporting, and documentation
 
 ---
 
-## 🛠️ Инструменты и технологии
+## 🛠️ Tools & Technologies
 
 Charles Proxy • Firebase • Amplitude • Git • SVN • TestRail • Android Studio •  
 Asana • Jenkins • Sentry • Qase • HelpShift • Swrve • Coda • Confluence
 
 ---
 
-## 📄 [Резюме можно найти здесь] (https://shaadow0king.github.io/cv)
+## 📬 Contact
+
+📧 Email: Im.gework@gmail.com  
+💬 [Telegram](https://t.me/dduck0)  
+🌐 [My Resume and experience you can find here](https://shaadow0king.github.io/cv)
 
 ---
 
-## 📬 Связь
-
-[Telegram](https://t.me/dduck0)  
-[Портфолио на GitHub Pages](https://shaadow0king.github.io/cv)
-
----
-
-> 👨‍💻 Всегда открыт к интересным задачам и игровым проектам
+> 👨‍💻 Open to exciting projects and new QA opportunities in the game industry.

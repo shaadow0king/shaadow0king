@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gevork
 
-📱 Mobile QA Engineer with 3+ years of experience
-⚙️ Testing on Android / iOS / Huawei / Amazon / UWP
-🐞 Focused on application stability, bug impact, and UX/UI logic
-🚀 Participated in product releases, A/B testing, bug reporting, and documentation
+📱 Mobile QA Engineer with 3+ years of experience<br>
+⚙️ Testing on Android / iOS / Huawei / Amazon / UWP<br>
+🐞 Focused on application stability, bug impact, and UX/UI logic<br>
+🚀 Participated in product releases, A/B testing, bug reporting, and documentation<br>
 
 ---
 

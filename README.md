@@ -18,7 +18,7 @@ Asana • Jenkins • Sentry • Qase • HelpShift • Swrve • Coda • Confl
 
 📧 Email: Im.gework@gmail.com  
 💬 [Telegram](https://t.me/dduck0)  
-🌐 [My CV and experience you can find here](https://shaadow0king.github.io/cv)
+🌐 [My CV and experience you can find here](https://shaadow0king.github.io/myCV/)
 
 ---
 
